@@ -1,6 +1,6 @@
 let myLib = require("./index");
 
-myLib.suma(9,6)
+myLib.suma(9,6,3)
 myLib.resta (9,6)
 myLib.producto(9,6)
 myLib.divicion(9,6)
